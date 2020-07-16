@@ -1,0 +1,9 @@
+# ignoring files
+*.o
+
+# igniring directories
+**build/
+
+# ignoring main files
+*main
+
